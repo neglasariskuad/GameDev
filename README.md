@@ -1,2 +1,2 @@
 # GameDev
-[https://neglasariskuad.github.io/GameDev/](visit)
+[visit](https://neglasariskuad.github.io/GameDev/)
